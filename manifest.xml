@@ -2,8 +2,8 @@
 <manifest>
   <remote name="origin" fetch=".." review="" />
   <default revision="main" remote="origin" sync-j="1" />
-  <project name="builder.git" path="builder" />
   <project name="checker.git" path="checker" />
   <project name="parser.git" path="parser" />
+  <project name="transformer.git" path="transformer" />
   <project name="visualizer.git" path="visualizer" />
 </manifest>
