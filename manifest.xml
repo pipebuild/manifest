@@ -5,4 +5,5 @@
   <project name="builder.git" path="builder" />
   <project name="checker.git" path="checker" />
   <project name="parser.git" path="parser" />
+  <project name="visualizer.git" path="visualizer" />
 </manifest>
